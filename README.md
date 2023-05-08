@@ -9,6 +9,7 @@ I am a 4th year Business Analytics Student and an incoming consulting analyst at
 On my GitHub profile, you'll find a variety of projects that showcase my skills and interests. Here are some highlights:
 
 - Personal Portfolio - On my profile you will see a repository for a personal portfolio website about myself and my accomplishments and experience
+- Formula1 Pitstop Analysis Project - Here you will see a repository in which I analyzed Formula 1 race data along with the 2021 Formula 1 World Drivers Championship Standings to examine the relation between the duration of driver’s pit stops and the driver’s final placement within the standings to better understand how minimal mistakes can shape the result of the season.
 
 In addition to this projects, you can also find my contributions to other open-source projects and repositories on GitHub.
 
